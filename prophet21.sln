@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "store.api", "api\store.api\store.api.csproj", "{6C443CD2-A898-4DDE-8730-4F29D9B02D2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "store-model", "libraries\store-model\store-model.csproj", "{ABC40558-374A-43E0-8BC4-9454C2361EB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C443CD2-A898-4DDE-8730-4F29D9B02D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C443CD2-A898-4DDE-8730-4F29D9B02D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C443CD2-A898-4DDE-8730-4F29D9B02D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C443CD2-A898-4DDE-8730-4F29D9B02D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC40558-374A-43E0-8BC4-9454C2361EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC40558-374A-43E0-8BC4-9454C2361EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC40558-374A-43E0-8BC4-9454C2361EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC40558-374A-43E0-8BC4-9454C2361EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
